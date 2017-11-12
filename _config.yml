@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#050608'
+    - '#FFFFFF'
+    - '#00AEEF'
+    - '#00FFFF'
+    - '#767676'
+  brandStrength: 0.8828621045686305
+  lightness: 0.055442861281335354
+  saturation: 0.7392081299331039
+  rhythmicContrast: 0.7331442532595247
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: NightPanda Productions
+layout_spectrum: 0.355827147141099
+typography_spectrum: 0.4388267390895635
+content: []
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a20e191-b523-43ea-9a8d-8a8d2adc08b1.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de29494-5772-4e8e-be7e-e4fc64db70c6.jpg
